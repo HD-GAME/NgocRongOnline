@@ -5,8 +5,13 @@
 <h2 align="center">Ngọc Rồng Online – Java Multiplayer Game</h2>
 
 <p align="center">
-  🚀 <a href="https://download.chienbinhrongthieng.online">Tải Game</a> |
-  🌐 <a href="https://chienbinhrongthieng.online">Trang Web</a>
+  <a href="https://download.chienbinhrongthieng.online" target="_blank" rel="noopener noreferrer">
+    🚀 <strong>Tải Game</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://chienbinhrongthieng.online" target="_blank" rel="noopener noreferrer">
+    🌐 <strong>Trang Web</strong>
+  </a>
 </p>
 
 <p align="center">
