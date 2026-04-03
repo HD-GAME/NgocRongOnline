@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DANG-PH/MICROSERVICE_API_GATEWAY">
-    🧠 <strong>API Gateway</strong>
+    🧠 <strong>Source Server</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=61576541835732">
