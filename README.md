@@ -9,7 +9,7 @@
     🚀 <strong>Tải Game</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chienbinhrongthieng.online">
+  <a href="https://ngocrongdark.com">
     🌐 <strong>Trang Web</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
