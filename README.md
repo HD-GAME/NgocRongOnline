@@ -88,8 +88,8 @@ Hiện tại:
 
 ## 4. ▶️ Cách chạy game
 
-👉 Tải game tại: https://download.chienbinhrongthieng.online  
-👉 Trang web: https://chienbinhrongthieng.online  
+👉 Tải game tại: https://download.ngocrongdark.com  
+👉 Trang web: https://ngocrongdark.com
 
 1. Tải file release
 2. Giải nén file `.zip`
