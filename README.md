@@ -9,7 +9,7 @@
     🚀 <strong>Tải Game</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chienbinhrongthieng.online">
+  <a href="https://ngocrongdark.com">
     🌐 <strong>Trang Web</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -88,7 +88,7 @@ Hiện tại:
 
 ## 4. ▶️ Cách chạy game
 
-👉 Tải game tại: https://download.ngocrongdark.com
+👉 Tải game tại: https://download.ngocrongdark.com  
 👉 Trang web: https://ngocrongdark.com
 
 1. Tải file release
